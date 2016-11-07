@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Muchomor zielonkawy",
+    "latinName": "Amanita phalloides",
+    "isPoisonous": true
+  },
+  {
+    "name": "Kuna Leśna",
+    "latinName": "Martes martes",
+    "isPoisonous": false
+  },
+  {
+    "name": "Purchawka",
+    "latinName": "Lycoperdon perlatum",
+    "isPoisonous": true
+  }
+]
